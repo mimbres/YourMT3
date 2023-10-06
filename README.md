@@ -4,7 +4,7 @@
 UPDATE (2023 6 Oct.):
 - YourMT3+ is currently achieving on-par with or clearly better performance (using our own augmentation) than MT3.
 - YourMT3+ achieves comparable performance with PerceiverTF on Slakh when our own augmentation (similar to PerceiverTF) is applied.
-- Our toolkit comes with easy-to-use auto-downloader/installer for full dataset of MT3 (except for Cerberus, which has overlap with Slakh) + singing.
+- Our toolkit comes with easy-to-use auto-downloader/installer for full dataset of MT3 (except for Cerberus, which has overlap with Slakh) + MIR-ST500 for singing.
 - Improved data-loading that enables everything on-the-fly by custom batching pipeline (not using auto-batch of PyTorch DataLoader)
 - Note-processing and tokenization is dependency-free from noteseq, prettymidi.
 - System requirements for fully reproducing result: 500GB disk space, 80G (recommended) GPU memory
