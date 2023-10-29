@@ -1,6 +1,9 @@
 ![yourmt3-low-resolution-color-logo-crop](https://user-images.githubusercontent.com/26891722/204390355-001877a1-d019-46d7-a33c-d3a3adc0743c.png)
 ### YourMT3: Multi-task and multi-track music transcription for everyone
 
+UPDATE (2023 29 Oct.):
+- Regrettably, due to the policy of the company I am currently working with on this project, open code will likely be possible on the 10th of November. Sorry for this happening...
+
 UPDATE (2023 6 Oct.):
 - YourMT3+ is currently achieving on-par with or clearly better performance (using our own augmentation) than MT3.
 - YourMT3+ achieves comparable performance with PerceiverTF on Slakh when our own augmentation (similar to PerceiverTF) is applied.
@@ -10,4 +13,4 @@ UPDATE (2023 6 Oct.):
 - System requirements for fully reproducing result: 500GB disk space, 80G (recommended) GPU memory
 - We are going to present this work (YourMT3+) as an ISMIR Late-breaking Demo next month in Milano.
 
-Currently I am working on removing some unpublished parts of code, and I promise the upload in a couple of weeks before ISMIR2023.
+
