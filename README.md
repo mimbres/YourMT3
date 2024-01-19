@@ -5,7 +5,7 @@
 ### [Work-in-progress Demo](https://zenodo.org/records/10531675) | [Video](https://www.youtube.com/channel/UCbH4dDVnflLMITujb_IntHQ)
 
 UPDATE (2023 29 Oct.):
-- Regrettably, due to the policy of the company I am currently working with on this project, open code will likely be possible on January 2024. 
+- Regrettably, due to the policy of the company I am currently working with on this project, open code will likely be possible in January 2024. 
 
 UPDATE (2023 6 Oct.):
 - YourMT3+ is currently achieving on-par with or clearly better performance (using our own augmentation) than MT3.
