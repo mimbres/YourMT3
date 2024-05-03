@@ -4,4 +4,5 @@
 ## NEWS
 - YourMT3+: [Paper] [Notebook Demo](https://colab.research.google.com/drive/1AgOVEBfZknDkjmSRA7leoa81a2vrnhBG?usp=sharing)
 
+![ymt3p_front](https://github.com/mimbres/YourMT3/assets/26891722/a74d0cf6-9ce0-4d92-a37e-da5b59ab4866)
 
