@@ -2,7 +2,7 @@
 ### YourMT3: Multi-task and multi-track music transcription for everyone
 
 ## NEWS
-- **YourMT3+**: [MLSP2024 Paper](https://arxiv.org/abs/2407.04822) [Notebook Demo](https://colab.research.google.com/drive/1AgOVEBfZknDkjmSRA7leoa81a2vrnhBG?usp=sharing)
+- **YourMT3+ (MLSP2024)**: [Paper](https://arxiv.org/abs/2407.04822) [Notebook Demo](https://colab.research.google.com/drive/1AgOVEBfZknDkjmSRA7leoa81a2vrnhBG?usp=sharing)
 
 ![ymt3p_front_img_hi](https://github.com/mimbres/YourMT3/assets/26891722/2e152609-5131-4787-8422-8c4a8877fee1)
 
